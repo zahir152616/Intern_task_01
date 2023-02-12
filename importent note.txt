@@ -1,0 +1,15 @@
+Menu: Home, About us, Gallery, Hair style, barbers
+
+Slider: 3
+
+About us: Saloon
+
+Gallery & Hair style section: 5/6
+
+Footer
+
+barbers: card
+
+Menu: right a LogIn, Register button hbe
+
+html, css, bootstrap, jquery
